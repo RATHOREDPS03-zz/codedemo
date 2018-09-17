@@ -1,6 +1,6 @@
 version: 0.0
 os: linux
 files:
-  - source: /dev
+  - source: /
     destination: /var/www/html
  
